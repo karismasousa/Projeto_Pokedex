@@ -2,17 +2,8 @@
 
 <img style="width:700px" src="https://user-images.githubusercontent.com/106543715/236303750-31662259-effa-494e-bfa7-8359605bf993.png">
 
-
-## Indice
-
-Funcionalidade
-Layout
-Demonstração
-Como rodar o Projeto
-Tecnologia
-Pessoas Autoras
 ## Descrição do Projeto
-Projeto de criação de pokedex, no qual foi utilizado um API onde temos acesso a uma biblioteca de Pokemons, podendo tambem realizar pesquisas por nome ou numero.
+Projeto de criação de pokedex, no qual foi utilizado um API PokéApi onde temos acesso a uma biblioteca de Pokemons, podendo tambem realizar pesquisas por nome ou numero.
 
 ## Status do Projeto
 > ✅ Finalizado
